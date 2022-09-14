@@ -1,8 +1,19 @@
-# collection-scraper
-IPFS Collection Downloader
 # IPFS NFT Collection Downloader
+IPFS Collection Downloader
+
 
 ## Installation 🛠️
+
+Basic setup prior to use, you'll need: 
+
+Code Editor:
+[💻Visual Studio Code](https://code.visualstudio.com/download)
+
+Install Prerequisites: 
+NVM (optional, but smart) | Node.js | NPM | Yarn | Homebrew (mac)
+
+The easiest way to install these is to [Google](https://google.com)
+.ie 'Install node mac' | 'Install yarn windows'
 
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
